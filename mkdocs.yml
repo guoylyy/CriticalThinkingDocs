@@ -1,11 +1,21 @@
 site_name: 郭意亮的思维笔记 CriticalThinkingNotes
 
 nav:
-  - 关于我: index.md
+  - 关于本站: index.md
   - 逻辑思维笔记: 
-    - 序言: lg-index.md
-    - 第一章: lg/chapter01.md
-    - 第二章: lg/chapter02.md
+    - 00.序言: lg-index.md
+    - 01.批判: lg/chapter01.md
+    - 02.反思: lg/chapter02.md
+    - 03.目的: lg/chapter03.md
+    - 04.问题: lg/chapter04.md
+    - 05.信息: lg/chapter05.md
+    - 06.概念: lg/chapter06.md
+    - 07.根据: lg/chapter07.md
+    - 08.推理: lg/chapter08.md
+    - 09.预设: lg/chapter09.md
+    - 10.结论: lg/chapter10.md
+    - 11.思维: lg/chapter11.md
+    - 99.后记: lg/chapter100.md
 
 theme:
   name: material
