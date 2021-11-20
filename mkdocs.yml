@@ -1,0 +1,35 @@
+site_name: 郭意亮的思维笔记 CriticalThinkingNotes
+
+nav:
+  - 关于我: index.md
+  - 逻辑思维笔记: 
+    - 序言: lg-index.md
+    - 第一章: lg/chapter01.md
+    - 第二章: lg/chapter02.md
+
+theme:
+  name: material
+  palette:
+    primary: white
+  language: zh
+  logo: assets/logo.png
+  features:
+    - navigation.tabs
+    - header.autohide
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - abbr
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      toc_depth: 3
+      permalink: true
+      permalink: true
+
+extra:
+  generator: false
+
+copyright: Copyright &copy; 2021 
