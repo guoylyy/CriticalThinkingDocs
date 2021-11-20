@@ -10,3 +10,7 @@ created by guoylyy at 2021-11-20
 我的更新记录如下
 
 ![github提交记录](https://ghchart.rshah.org/guoylyy)
+
+## 一些我笔记喜欢的站点推荐
+- [John Resig](https://johnresig.com/)
+- [Paul Graham](http://paulgraham.com/index.html)
