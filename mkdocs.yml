@@ -1,7 +1,9 @@
 site_name: 郭意亮的思维笔记 CriticalThinkingNotes
 
 nav:
-  - 关于本站: index.md
+  - 主页: 
+    - 关于本站: index.md
+    - 关于我: aboutme.md
   - 逻辑思维笔记: 
     - 00.序言: lg-index.md
     - 01.批判: lg/chapter01.md
@@ -29,6 +31,7 @@ theme:
     primary: white
   language: zh
   logo: assets/logo.png
+  favicon: assets/logo-small.png
   features:
     - navigation.tabs
     - header.autohide

@@ -1,5 +1,9 @@
 # 欢迎来到我的思维笔记
+
+
+
 这是郭老板的思维笔记网站，这个网站主要分享思考和笔记。
+
 created by guoylyy at 2021-11-20
 ## 更新原则
 1. I must write code every day. I can write docs, or blog posts, or other things but it must be in addition to the code that I write.

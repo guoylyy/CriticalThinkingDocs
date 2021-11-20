@@ -1,5 +1,6 @@
 # LogicalThinkDocs
 
+
 这是郭老板的思维笔记网站，这个网站主要分享思考和笔记。
 
 created by guoylyy at 2021-11-20
