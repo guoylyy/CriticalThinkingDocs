@@ -17,13 +17,12 @@ nav:
     - 09.预设: lg/chapter09.md
     - 10.结论: lg/chapter10.md
     - 11.思维: lg/chapter11.md
-    - 99.后记: lg/chapter99.md
-  - 英语思维笔记:
-    - 00.写作: eg/write.md
-  - 技术思维笔记:
-    - 001.技术学习指南: tg/001-guide.md
-  - 思维日记:
-    - 什么是思维日记: dg/what.md
+  # - 英语思维笔记:
+    # - 00.写作: eg/write.md
+  # - 技术思维笔记:
+    # - 001.技术学习指南: tg/001-guide.md
+  # - 思维日记:
+    # - 什么是思维日记: dg/what.md
 
 theme:
   name: material
